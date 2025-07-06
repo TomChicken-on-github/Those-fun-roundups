@@ -1,5 +1,6 @@
 # 有趣 Issues & Pull requests 汇总
-这是一个专门收集有趣 `Issues` & `Pull requests` 的仓库。
+此仓库本为向[源仓库](https://github.com/fuydg/Those-fun-roundups)仓库提交PR所建 现原仓库作者帐号丢失了2FA 请移步[新仓库](https://github.com/ioit-aaa/Those-fun-roundups)
+~~这是一个专门收集有趣 `Issues` & `Pull requests` 的仓库。~~
 
 - 你们是把马化腾他妈的骨灰盒打包了吗？
 [#160](https://github.com/TencentCloud/tencentcloud-sdk-nodejs/issues/160)
